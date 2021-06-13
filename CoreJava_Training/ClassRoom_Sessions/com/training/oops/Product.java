@@ -24,7 +24,7 @@ public class Product {
 
 	public static void main(String[] args) {
 
-		System.out.println(new Product());
+//		System.out.println(new Product());
 //		System.out.println(new Product());
 
 		init();
@@ -64,8 +64,7 @@ public class Product {
 		double sqrt = Math.sqrt(4);
 		System.out.println(sqrt);
 		
-//		product.description= "oppo mobile";
-		
+		product.description= "oppo mobile";
 		
 		
 	}
